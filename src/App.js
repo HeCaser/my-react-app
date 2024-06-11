@@ -1,3 +1,5 @@
+
+// golobal export
 import { createWalletFromMnemonic } from "./funntion/function";
 
 function App() {
